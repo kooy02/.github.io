@@ -1,0 +1,12 @@
+@charset 'UTF-8';
+body {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;/*文字の太さを数値で入力*/
+  font-style: normal;
+  background-color: khaki;
+}
+
+img {
+  max-width: 100%;
+}
